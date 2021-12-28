@@ -1,0 +1,33 @@
+body,html{
+    margin:0;
+    min-height:100%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    margin-top:20vh;
+    text-align: center;
+    color: rgb(187, 3, 3);;
+}
+
+#row{
+    margin:5vh 35vw 0 35vw;
+}
+input{
+    padding:1vh 1vw 1vh 1vw;
+    margin-left:1vw;
+    width:20vw;
+}
+select{
+    padding:1vh 1vw 1vh 1vw;
+}
+#submit{
+    background-color: rgb(5, 161, 5);
+    color:white;
+    border:none;
+    font-size:16px;
+    border-radius:3px;
+    padding:1vh 1vw 1vh 1vw;
+}
+#submit:hover{
+    background-color: rgb(10, 10, 10);
+}
